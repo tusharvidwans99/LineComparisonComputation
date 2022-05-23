@@ -12,7 +12,7 @@
         {
 
             Console.WriteLine("Welcome to the Line Comparison Computation Program");
-            MeasureLineLength.get();
+            MeasureLineLength.MesuretheLength();
 
         }
 
